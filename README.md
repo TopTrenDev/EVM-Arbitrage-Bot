@@ -141,4 +141,4 @@ To use the trading bot on a live Ethereum network, please refer to our [Arbitrag
 ## **📬 Contact & Community**  
 
 📢 **Telegram:** [@toptrendev](https://t.me/toptrendev)  
-📢 **Discord:** [toptrendev](https://discordapp.com/users/334173411402317846)  
+📢 **Twitter:** [toptrendev](https://x.com/toptrendev)  
